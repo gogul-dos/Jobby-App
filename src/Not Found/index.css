@@ -1,0 +1,13 @@
+.notFound-image {
+  height: 300px;
+  width: auto;
+}
+.NotFound-bg-container {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}

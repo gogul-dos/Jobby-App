@@ -1,0 +1,44 @@
+.link-decoration {
+  text-decoration: none;
+  color: #ffffff;
+}
+.list-item-for-individual-job {
+  background-color: #272727;
+  width: 80%;
+  margin-top: 15px;
+  padding: 25px;
+  border-radius: 15px;
+}
+.logo-image {
+  height: 60px;
+  width: 60px;
+}
+.for-flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.for-flex-row-center {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.rating-icon-color {
+  color: #fbbf24;
+}
+.for-left-margin {
+  margin-left: 15px;
+}
+.location-details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.flex-row {
+  display: flex;
+  align-items: center;
+}
+.overall-jobs-container {
+  height: 100%;
+  background-color: #000000;
+}
